@@ -1,2 +1,7 @@
-# fhir-dashboard
-CS6440 Mini Project III: FHIR Dashboard
+# FHIR React Dashboard
+
+## Quick Satrt
+
+1. npm install
+2. npm start
+
