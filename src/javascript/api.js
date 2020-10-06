@@ -1,7 +1,7 @@
 let patientListDemo = require("./patientDemoData.json");
 let observationDemo = require("./observationDemoData.json");
 
-const SERVER_URL = "http://localhost:3000/";
+const SERVER_URL = "https://cdang36-cs6440.herokuapp.com/";
 
 const moment = require("moment");
 
