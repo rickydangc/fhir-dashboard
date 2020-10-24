@@ -243,7 +243,7 @@ const FhirFooter = () => {
           href="https://github.com/rickydangc/fhir-dashboard"
           style={{ color: "black" }}
         >
-          CS6440 Mini Project III
+          CS6440 Individual Project
         </a>{" "}
         <div>
           <a
